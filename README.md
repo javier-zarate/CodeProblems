@@ -1,6 +1,12 @@
+<!--- Converted to markdown format -->
+
+
 # Code Problems
 
-## Collection of daily coding Questions and Solutions
+
+
+# Collection of daily coding Questions and Solutions
+
 
 sources:
 
@@ -14,7 +20,9 @@ Each problem should have the following:
 -   Time Complexity / Space Complexity
 -   Sample Tests
 
-## Data Structures and Sorting Algorithms
+
+# Data Structures and Sorting Algorithms
+
 
 -   Implementations of popular data structures and related methods!
--   Implementations of popular sortinf algorithms!
+-   Implementations of popular sorting algorithms!
